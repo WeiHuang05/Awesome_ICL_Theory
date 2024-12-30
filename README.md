@@ -83,6 +83,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 > Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context, [link](https://arxiv.org/abs/2410.01774)
 
+> Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner, [link](https://ezharjan.github.io/AutoSceneGen/)
+
 
 
 
